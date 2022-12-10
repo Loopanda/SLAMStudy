@@ -1,4 +1,24 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
-    "cmake.sourceDirectory": "${workspaceFolder}/MatrixCalculate"
+    "cmake.sourceDirectory": "${workspaceFolder}/MatrixCalculate",
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "iosfwd": "cpp",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "exception": "cpp",
+        "memory_resource": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp"
+    }
 }
